@@ -4,4 +4,4 @@ Secret pc calculator to bo6 map TERMINUS
 -----------------------
 pip install pyinstaller
 -----------------------
-pyinstaller --onefile calculator.py
+pyinstaller --onefile Calculator.py
